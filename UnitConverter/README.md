@@ -4,7 +4,7 @@
 This documentation provides an overview of the Unit Converter app created as the first project in an Android development course. The app allows users to convert between different units of measurement. Through this project, several key concepts and components of Jetpack Compose were learned and applied.
 
 ## Main Activity Code
-The main activity code for the Unit Converter app can be found [here](UnitConverter/app/src/main/java/com/example/unitconverter/MainActivity.kt).
+The main activity code for the Unit Converter app can be found [here](udemy-course-android-projects/UnitConverter/app/src/main/java/com/example/unitconverter/MainActivity.kt).
 
 ## Concepts and Components
 The following concepts and components were utilized in the development of the Unit Converter app:
